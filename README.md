@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Teletek Bulut Bilişim](https://www.teletek.net.tr/)
+- 🔭 I’m currently working on PHP & C#
 - 🌱 I’m currently learning PHP, .NET CORE, NodeJS
 - 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
 
