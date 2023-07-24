@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on PHP & C#
-- 🌱 I’m currently learning PHP, .NET CORE, NodeJS
+- 🌱 I’m currently learning PHP, .NET CORE
 - 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
 
 
