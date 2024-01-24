@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PHP & .Net
+- 🔭 I’m currently working on SignalRProject
 - 🌱 I’m currently learning PHP, .Net CORE, Swift
 - 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
 
