@@ -1,4 +1,5 @@
-![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs) 
+![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seniordoctor)](https://git.io/streak-stats)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true)
 
