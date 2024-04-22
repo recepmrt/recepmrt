@@ -1,6 +1,6 @@
 ![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 ### Hi there 👋
 
 - 🔭 I’m currently working on SignalRProject
