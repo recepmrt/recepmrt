@@ -2,9 +2,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true" width="300">
 
 
 ### Hi there 👋
@@ -15,6 +13,9 @@
 
 
 <!--
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true)
 **seniordoctor/seniordoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
