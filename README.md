@@ -1,6 +1,6 @@
 ![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true" width="600">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true" width="300">
 
 
 ### Hi there 👋
