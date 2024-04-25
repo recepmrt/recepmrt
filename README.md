@@ -8,8 +8,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on SignalRProject
-- 🌱 I’m currently learning PHP, .Net CORE
+- 🔭 I’m currently working on SignalRProject        
+- 🌱 I’m currently learning PHP, .Net CORE             https://github.com/seniordoctor/seniordoctor/blob/main/GitHub%20Mascot%20Pixel.gif
 - ✨ I'm new to Java & Swift
 - 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
 
