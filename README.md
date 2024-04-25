@@ -7,9 +7,9 @@
 
 
 ### Hi there 👋
-
+<img src="https://github.com/ImagINN/ImagINN/blob/main/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
 - 🔭 I’m currently working on SignalRProject        
-- 🌱 I’m currently learning PHP, .Net CORE             <img src="https://github.com/ImagINN/ImagINN/blob/main/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
+- 🌱 I’m currently learning PHP, .Net CORE             
 - ✨ I'm new to Java & Swift
 - 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
 
