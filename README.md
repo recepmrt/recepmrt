@@ -16,7 +16,7 @@
 
 ###
 
-![](https://komarev.com/ghpvc/?username=seniordoctor&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=seniordoctor&color=blue) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/recepmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhansal" height="30" width="40" /></a>
