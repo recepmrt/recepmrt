@@ -5,12 +5,6 @@
 </div>
 
 
-![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent" width="275">
-
-
-
-
-
 
 ### Hi there 👋
 
@@ -18,6 +12,9 @@
 - 🌱 I’m currently learning PHP, .Net CORE
 - ✨ I'm new to Java & Swift
 - 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
+
+
+![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent" width="275">
 
 
 <!--
