@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://github.com/seniordoctor">
+ <a href="https://github.com/recepmrt">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=5d00ff&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=%e2%9c%a8+Hi+%f0%9f%91%8b+I'm+Recep+%e2%9c%a8;%f0%9f%93%b1+I'm+a+software+developer+%f0%9f%92%bb;%e2%9c%a8+Welcome+to+my+profile+%f0%9f%91%80" alt="Typing SVG" style="color: white;" />
  </a>
 </div>
@@ -12,11 +12,11 @@
 - 🔭 I’m currently working on SignalRProject        
 - 🌱 I’m currently learning PHP, .Net CORE             
 - ✨ I'm new to Java
-- 📫 How to reach me: [recepmert034@gmail.com](mailto:recepmert034@gmail.com)
+- 📫 How to reach me: [contact.recepmert@gmail.com](mailto:contact.recepmert@gmail.com)
 
 ###
 
-<!-- ![](https://komarev.com/ghpvc/?username=seniordoctor&color=blue) -->
+<!-- ![](https://komarev.com/ghpvc/?username=recepmrt&color=blue) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/recepmert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokhansal" height="30" width="40" /></a>
@@ -50,14 +50,14 @@
 ###
 
 
-![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniordoctor&show_icons=true&theme=transparent&hide=contribs,prs)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent" width="275">
+![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=recepmrt&show_icons=true&theme=transparent&hide=contribs,prs)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepmrt&layout=compact&theme=transparent" width="275">
 
 
 <!--
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordoctor&layout=compact&theme=transparent&hide_progress=true)
-**seniordoctor/seniordoctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepmrt&layout=compact&theme=transparent&hide_progress=true)
+**recepmrt/recepmrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
