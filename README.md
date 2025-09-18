@@ -49,9 +49,9 @@
 
 ###
 
-
+<!--
 ![Recep's GitHub stats](https://github-readme-stats.vercel.app/api?username=recepmrt&show_icons=true&theme=transparent&hide=contribs,prs)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recepmrt&layout=compact&theme=transparent" width="275">
-
+-->
 
 <!--
 
