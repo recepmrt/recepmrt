@@ -9,7 +9,7 @@
 
 <img src="https://github.com/ImagINN/ImagINN/blob/main/GitHub%20Mascot%20Pixel.gif" alt="Coding" width=200 height=200 align="right">
 
-- 🔭 I’m currently working on Microservice Projects
+- 🔭 I’m currently working on Microservice Projects & Fleet Management
 - 🌱 I’m currently learning .Net CORE
 - ✨ I'm new to Java
 - 📫 How to reach me: [contact.recepmert@gmail.com](mailto:contact.recepmert@gmail.com)
